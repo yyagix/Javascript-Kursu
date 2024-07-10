@@ -8,7 +8,6 @@ newElement.className = "card-title";
 newElement.id = "tasks-title";
 newElement.textContent = "Yeni Todolar";
 
-
 // Eski Element
 
 const oldElement = document.querySelector("#tasks-title");

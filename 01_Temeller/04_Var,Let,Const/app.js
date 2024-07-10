@@ -4,22 +4,18 @@ var ad = "Yağız Efe";
 
 console.log(ad);
 
-ad = "Ünal"
+ad = "Ünal";
 
 console.log(ad);
 
-
-
 // Let - let a; tek bir kere yazılabilir ikinci let a; hata verir.
 
-let a,b;
+let a, b;
 
 a = 10;
 b = 20;
 
-console.log(a+b);
-
-
+console.log(a + b);
 
 // Const - Tekrar değiştirilemez.
 
@@ -45,7 +41,7 @@ console.log();
 
 */
 
-const z = [1,2,3,4,5];
+const z = [1, 2, 3, 4, 5];
 
 console.log(z);
 

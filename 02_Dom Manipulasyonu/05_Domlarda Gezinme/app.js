@@ -16,9 +16,8 @@ value = todolist.childNodes[0];
 // Children     -   Element
 
 value = todolist.children;
-value = todolist.children[todolist.children.length-1];
+value = todolist.children[todolist.children.length - 1];
 value = todolist.children[2].textContent = "Değişti";
-
 
 value = cardrow;
 value = cardrow.children;
@@ -35,7 +34,6 @@ value = cardrow;
 value = cardrow.parentElement;
 value = cardrow.parentElement.parentElement;
 
-
 // Element Kardeşleri
 
 value = todo;
@@ -45,8 +43,5 @@ value = todo.nextElementSibling;
 value = todo.nextElementSibling.nextElementSibling;
 
 value = todo.previousElementSibling.previousElementSibling;
-
-
-
 
 console.log(value);

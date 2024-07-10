@@ -2,12 +2,8 @@
 
 // alert("Merhaba");
 
-
-
-
 // console.log(cevap);
 // Confirm
-
 
 // if (confirm("Emin misiniz?")){
 //     console.log("Silin Gitsin");
@@ -41,14 +37,11 @@ value = window.location.href;
 //     console.log("sayfa yenilenmedi");
 // }
 
-
 // value = window.outerHeight;
 // value = window.outerWidth;
 
-
 // value = window.innerHeight;
 // value = window.innerWidth;
-
 
 // value = window.scrollX;
 

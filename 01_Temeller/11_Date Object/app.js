@@ -1,6 +1,5 @@
 let value;
 
-
 const now = new Date(); // Şu anki zamanı almamızı sağlar...
 
 const date1 = new Date("9-19-1993 06:15:00");
@@ -15,7 +14,6 @@ value = date1.getMonth();
 value = date1.getDate();
 value = date1.getDay();
 
-
 value = date1.getHours();
 value = date1.getMinutes();
 value = date1.getSeconds();
@@ -28,11 +26,6 @@ date1.setHours(0);
 date1.setMinutes(15);
 date1.setSeconds(30);
 
-
 value = date1;
-
-
-
-
 
 console.log(value);

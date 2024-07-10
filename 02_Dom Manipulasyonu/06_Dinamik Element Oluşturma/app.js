@@ -5,7 +5,7 @@ const cardbody = document.getElementsByClassName("card-body")[1];
 
 newLink.id = "clear-todos";
 newLink.className = "btn btn-danger";
-newLink.href = "https://www.google.com"
+newLink.href = "https://www.google.com";
 newLink.target = "_blank";
 
 /*

@@ -2,13 +2,9 @@ const isim = "Yağız Efe Ünal";
 const departman = "Bilişim";
 const maas = 4000;
 
-
-
 // const a = "İsim: " + name + "\n" + "Departman: " + department + "\n" + "Maaş: " + salary;
-                                    
 
 // const a = `İsim: ${name}\nDepartman: ${department}\nMaaş: ${salary}`;
-
 
 /* const html = "<ul> "+ 
             "<li>" + isim + "</li>" +
@@ -18,7 +14,7 @@ const maas = 4000;
 */
 
 function a() {
-    return "Merhaba";
+  return "Merhaba";
 }
 
 const html = `

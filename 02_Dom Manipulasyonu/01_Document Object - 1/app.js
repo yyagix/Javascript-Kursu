@@ -7,15 +7,13 @@ value = document.all;
 value = document.all.length;
 value = document.all[0];
 value = document.all[6];
-value = document.all[document.all.length-1];
+value = document.all[document.all.length - 1];
 
-
-const elements = document.all;      // HTML Collection
+const elements = document.all; // HTML Collection
 
 /* for(let i = 0; i < elements.length; i++){
     console.log(elements[i]);
 } */
-
 
 /* elements.forEach(function(element){
     console.log(element);            // elements.forEach is not a function
@@ -34,7 +32,6 @@ collections.forEach(function(collection){
 }) 
 */
 
-
 value = document.all[8];
 value = document.body;
 value = document.head;
@@ -43,10 +40,5 @@ value = document.location.hostname;
 value = document.location.port;
 
 value = document.URL;
-
-
-
-
-
 
 console.log(value);

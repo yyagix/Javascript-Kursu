@@ -13,12 +13,10 @@ todoInput.classList.remove("form-control");
 element = todoInput;
 element = todoInput.placeholder;
 element = todoInput.getAttribute("placeholder");
-todoInput.setAttribute("placeholder", "Naber")
+todoInput.setAttribute("placeholder", "Naber");
 todoInput.setAttribute("title", "Input");
 element = todoInput.hasAttribute("name");
 todoInput.removeAttribute("name");
 element = todoInput;
-
-
 
 console.log(element);

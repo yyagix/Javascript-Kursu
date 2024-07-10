@@ -16,17 +16,15 @@ function Func(){
 }
 Func(); */
 
-if(true){
-    var value1 = 40;
-    let value2 = 50;
-    const value3 = 60;
-    console.log(value1,value2,value3);
-
+if (true) {
+  var value1 = 40;
+  let value2 = 50;
+  const value3 = 60;
+  console.log(value1, value2, value3);
 }
 
-console.log(value1,value2,value3);
+console.log(value1, value2, value3);
 
-
-if (true){
-    const database = "654321"
+if (true) {
+  const database = "654321";
 }

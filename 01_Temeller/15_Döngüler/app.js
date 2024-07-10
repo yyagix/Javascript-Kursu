@@ -7,7 +7,6 @@ while(i < 10){
     i++
 } */
 
-
 // Break ve Continue
 
 /* let i = 0;
@@ -22,7 +21,6 @@ while (i < 10) {
     i++;
 } */
 
-
 //  Do While
 
 /* let i = 0;
@@ -33,50 +31,49 @@ do {
     i++;
 }while(i < 10); */
 
-
 const langs = ["Python", "Javascript", "Java"];
 
 let index = 0;
 
-while(index < langs.length){
-    console.log(langs[index]);
+while (index < langs.length) {
+  console.log(langs[index]);
 
-    index++;
+  index++;
 }
 
 console.log("\n");
 
-for( let index = 0; index < langs.length; index++){
-    console.log(langs[index]);
+for (let index = 0; index < langs.length; index++) {
+  console.log(langs[index]);
 }
 
 console.log("\n");
 
-langs.forEach(function(lang, index){
-    console.log(lang,index);
-})
+langs.forEach(function (lang, index) {
+  console.log(lang, index);
+});
 
-console.log("\n")
+console.log("\n");
 
 const users = [
-    {name: "Yağız", age: 16},
-    {name: "Efe", age: 18},
-    {name: "Ünal", age: 21}
+  { name: "Yağız", age: 16 },
+  { name: "Efe", age: 18 },
+  { name: "Ünal", age: 21 },
 ];
 
-const names = users.map(function(user){
-    return user.name;
+const names = users.map(function (user) {
+  return user.name;
 });
 
 console.log(names);
 
-console.log("\n")
+console.log("\n");
 
 const user = {
-    name: "Yağız",
-    age: 16
+  name: "Yağız",
+  age: 16,
 };
 
-for(let key in user){
-    console.log(key,user[key]);
+for (let key in user) {
+  console.log(key, user[key]);
 }
