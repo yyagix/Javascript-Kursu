@@ -6,7 +6,7 @@ todoForm.addEventListener("submit", submitForm);
 function submitForm(e) {
   console.log("Submit Eventi");
 
-  e.preventDefult();
+  e.preventDefault();
 }
 /* filterInput.onfocus = function(){
     console.log("Naber");
