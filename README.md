@@ -1,35 +1,42 @@
-<p align="center">
-  <img src="logo.png" alt="Javascript Kursu Logo" width="200">
-</p>
+## Öne Çıkan Özellikler
 
+* **Kullanıcı dostu arayüz:** Markdown, öğrenmesi ve kullanımı kolay bir işaretleme dilidir.
+* **Esneklik:** Markdown, çeşitli amaçlar için kullanılabilir, blog yazıları, belgeler, e-postalar ve daha fazlası için idealdir.
+* **Taşınabilirlik:** Markdown dosyaları, herhangi bir metin düzenleyicide açılabilir ve düzenlenebilir.
+* **Açık kaynak:** Markdown, herkesin kullanabileceği ve katkıda bulunabileceği açık kaynaklı bir projedir.
 
-# Javascript Kursu
+## Markdown Örnekleri
 
-Bu repo, Javascript öğrenmek isteyenler için kapsamlı bir kurs sunmaktadır. Temelden başlayarak ileri seviye konulara kadar Javascript'in tüm inceliklerini öğreneceksiniz.
+Markdown'un nasıl kullanıldığına dair birkaç örnek:
 
-## İçerik
+* **Başlıklar:** `# Başlık 1`
+* **Alt başlıklar:** `## Alt Başlık 1`
+* **Metin:** `Bu bir metin örneğidir.`
+* **Listeler:**
+    * Öğe 1
+    * Öğe 2
+    * Öğe 3
+* **Bağlantılar:** `[Bağlantı metni](https://www.example.com)`
+* **Görüntüler:** `![Resim açıklaması](https://www.example.com/image.jpg)`
 
-* **Temel Kavramlar:** Değişkenler, veri tipleri, operatörler, fonksiyonlar, koşullar, döngüler.
-* **Nesne Yönelimli Programlama:** Sınıflar, nesneler, kalıtım, çok biçimlilik.
-* **DOM Manipülasyonu:** HTML elementlerini Javascript ile kontrol etme ve değiştirme.
-* **AJAX:** Asenkron istekler ile sunucuyla etkileşim.
-* **ES6+ Özellikleri:** Arrow fonksiyonları, şablon literalleri, modüller, promise'lar.
-* **Popüler Kütüphaneler:** React, Angular, Vue.js gibi kütüphanelere giriş.
+## Markdown Kaynakları
 
-## Nasıl Başlanır?
+Markdown hakkında daha fazla bilgi edinmek için aşağıdaki kaynakları kullanabilirsiniz:
 
-1. Bu repoyu bilgisayarınıza klonlayın.
-2. `index.html` dosyasını tarayıcınızda açın.
-3. Dersleri sırayla takip edin ve kod örneklerini inceleyin.
+* [Markdown resmi web sitesi](https://www.markdown.org/)
+* [Markdown öğreticisi](https://www.markdowntutorial.com/)
+* [Markdown referans kılavuzu](https://www.markdownguide.org/)
 
-## Katkıda Bulunma
+## Markdown'u Kullanma
 
-Eğer bu kursa katkıda bulunmak isterseniz, lütfen pull request gönderin. Her türlü katkıya açığız!
+Markdown'u kullanmaya başlamak için, bir metin düzenleyici açın ve yeni bir dosya oluşturun. Dosyanın uzantısını `.md` olarak kaydedin. Ardından, Markdown kullanarak içeriğinizi yazmaya başlayabilirsiniz.
 
-## İletişim
+Markdown'u kullanırken, aşağıdaki ipuçlarını aklınızda bulundurun:
 
-Sorularınız veya önerileriniz için lütfen [e-posta adresiniz] adresinden bize ulaşın.
+* Başlıklar ve alt başlıklar için `#` ve `##` karakterlerini kullanın.
+* Metin için normal yazı tipini kullanın.
+* Listeler için `*` veya `-` karakterlerini kullanın.
+* Bağlantılar için `[]` ve `()` karakterlerini kullanın.
+* Görüntüler için `![]` ve `()` karakterlerini kullanın.
 
-## Lisans
-
-Bu proje [lisans adı] lisansı altında lisanslanmıştır.
+Markdown'u kullanarak, kolayca güzel ve okunabilir belgeler oluşturabilirsiniz.
